@@ -1,2 +1,2 @@
 # Projects_JS
-My first project in JavaScript
+Projeto Calculadora JS
